@@ -1,6 +1,6 @@
 **✨ Hi, I’m Kamar Alsamerraey!**
 
-I’m a Master’s in Computer Science student (Dec 2026) with a background in healthcare, education, and digital design, now transitioning into AI, QA automation, and data-focused tech roles.
+I’m a Master’s in Computer Science student with a background in healthcare, education, and digital design, now transitioning into AI, QA automation, and data-focused tech roles.
 I love building practical tools, documenting processes clearly, and creating projects that genuinely help people — especially in healthcare and education.
 
 **💡 What I’m Focusing on Right Now**
