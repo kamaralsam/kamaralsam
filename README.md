@@ -27,6 +27,7 @@ Tools: Git, GitHub, Jupyter Notebook, Figma, VS Code
 Methodologies: Agile, SCRUM, test planning, defect lifecycle
 
 **🚀 Featured Projects**
+
 🩺 Moonlight OET – AI Tutor
 
 LLM-powered reading/listening assistant for OET preparation
